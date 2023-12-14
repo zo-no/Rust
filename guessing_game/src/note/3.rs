@@ -3,9 +3,9 @@
 @Author		:zono
 @Description:
 3.常见编程概念
-3.1 变量和可变性(12-13)
+3.1 变量和可变性
 let 和 mut
-3.2 数据类型(12-14)
+3.2 数据类型
 标量类型（scalar type）和复合类型（compound type）
 有点像javascript的基本类型和复合类型
 
